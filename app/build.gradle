@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "com.oceanbrasil.ocean_android_maps_fev_2022"
-        minSdk 21
+        minSdk 19
         targetSdk 31
         versionCode 1
         versionName "1.0"
